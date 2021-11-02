@@ -4,7 +4,8 @@
   "description": "Code from the [Mern Tutorial](https://www.mongodb.com/languages/mern-stack-tutorial) to build a full-stack MERN application, a web development framework made up of the stack of MongoDB, Express.js, React.js, and Nodejs.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz"
   },
   "repository": {
     "type": "git",
